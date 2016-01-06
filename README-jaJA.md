@@ -619,7 +619,7 @@ idを指定してひとつのレコードを取得する場合は、`where`よ�
 <sup>[[link](#no-direct-model-view)]</sup>
 
 * <a name="no-complex-view-formatting"></a>
-  Viewでの表示のための複雑なフォーマット処理をviewのファイルに記述してはいけません。ヘルパーメソッドに書き出しましょう。
+  viewでの表示のための複雑なフォーマット処理をviewのファイルに記述してはいけません。ヘルパーメソッドに書き出しましょう。
 <sup>[[link](#no-complex-view-formatting)]</sup>
 
 * <a name="partials"></a>
@@ -669,7 +669,7 @@ idを指定してひとつのレコードを取得する場合は、`where`よ�
 <sup>[[link](#short-i18n)]</sup>
 
 * <a name="lazy-lookup"></a>
-  View では、"lazy lookup" を利用しましょう。
+  view では、"lazy lookup" を利用しましょう。
 <sup>[[link](#lazy-lookup)]</sup>
 
   ```
@@ -740,7 +740,7 @@ idを指定してひとつのレコードを取得する場合は、`where`よ�
 <sup>[[link](#html-plain-email)]</sup>
 
 * <a name="enable-delivery-errors"></a>
-  delelopment 環境では、メールの送信に失敗したらエラーが発生するように設定しておきましょう。デフォルトでは、develepment環境でのメール送信失敗はエラーとならないように設定されています。
+  development 環境では、メールの送信に失敗したらエラーが発生するように設定しておきましょう。デフォルトでは、develepment環境でのメール送信失敗はエラーとならないように設定されています。
 <sup>[[link](#enable-delivery-errors)]</sup>
 
   ```Ruby
